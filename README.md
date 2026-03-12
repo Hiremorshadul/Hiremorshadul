@@ -1,17 +1,58 @@
-# 💫 About Me:
-Hi, I am Morshadul Alam, a data scientist with a Master's degree in Data Science from Universidade NOVA de Lisboa, Portugal. I specialize in data analysis, machine learning engineering, and data engineering, with extensive experience leveraging cloud technologies. Driven by a passion for solving complex, real-world challenges through AI, I excel at quickly identifying and addressing technical problems. Committed to continuous learning, I aim to apply my expertise to cutting-edge projects at innovative organizations.
+# 👋 Hi, I'm Morshadul Alam
 
+🎓 MSc Data Science student at **Universidade NOVA de Lisboa** (graduating June 2026),  
+specialising in machine learning engineering, predictive modelling, and data pipelines.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshadul/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:morshadtafe@gmail.com) 
+🔭 I build end-to-end ML projects — from raw data to deployed web applications.  
+My projects include a **live wildfire risk predictor** (Ridge Regression, deployed on Render)  
+and a **student performance prediction system** achieving R² > 0.85 with automated  
+model selection across 9 algorithms including XGBoost, CatBoost, and Random Forest.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+💼 I also bring 6+ years of professional experience in web development and analytics —  
+which means I understand how to build things that work in production, not just in notebooks.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hiremorshadul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hiremorshadul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiremorshadul&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌍 Based in **Lisbon, Portugal** | Right to work in Portugal ✅  
+📫 **morshadtafe@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/morshadul/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hiremorshadul&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 What I Work With
+
+**Languages:** Python, SQL, JavaScript  
+**ML & Data:** Scikit-learn, TensorFlow, Keras, XGBoost, CatBoost, Pandas, NumPy, Matplotlib, MLflow  
+**Deployment:** Flask, FastAPI, Streamlit, Docker, GitHub Actions  
+**Cloud:** AWS (Elastic Beanstalk), Azure, Google Cloud  
+**Big Data:** Apache Spark, Kafka, Hadoop, Airflow  
+**Databases:** MySQL, MongoDB, Microsoft SQL Server  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 [Wildfire Risk Predictor](https://github.com/Hiremorshadul/wildfire-predictor-flask)
+Production-ready ML web app classifying fire vs no-fire risk from environmental data.  
+**Model:** Ridge Regression + StandardScaler | **Dataset:** Algerian Forest Fires (244 instances,  
+Béjaïa & Sidi Bel-Abbès, June–Sept 2012) | **Deployed:** [wildfire-predictor-flask.onrender.com](https://wildfire-predictor-flask.onrender.com/)  
+`Python` `Scikit-learn` `Flask` `REST API`
+
+### 📊 [Student Performance Prediction System](https://github.com/Hiremorshadul/End-to-End-Student-Performance-Prediction-System)
+Full-stack ML application predicting student math scores. Automated comparison of 9 models  
+(Linear Regression, Lasso, Ridge, KNN, Decision Tree, Random Forest, XGBoost, CatBoost, AdaBoost)  
+with GridSearchCV. **Achieves R² > 0.85.** AWS Elastic Beanstalk ready.  
+`Python` `Scikit-learn` `XGBoost` `CatBoost` `Flask` `Docker`
+
+### 🗣️ [NLP Exercises](https://github.com/Hiremorshadul/NLP-Exercises)
+Hands-on NLP notebooks covering tokenization, stemming, lemmatization, and word embeddings  
+using NLTK and Gensim.  
+`Python` `NLTK` `Gensim`
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Hiremorshadul&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Hiremorshadul&theme=dark&hide_border=false)
+---
+
+*Currently open to Data Science, ML Engineering, and Technology Graduate roles in Portugal.*
