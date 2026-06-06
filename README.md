@@ -55,4 +55,4 @@ using NLTK and Gensim.
 ![](https://nirzak-streak-stats.vercel.app/?user=Hiremorshadul&theme=dark&hide_border=false)
 ---
 
-*Currently open to Data Science, ML Engineering, and Technology Graduate roles in Portugal.*
+*Currently open to Data Science, ML Engineering, and Technology Graduate roles.*
