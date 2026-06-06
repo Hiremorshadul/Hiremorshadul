@@ -11,7 +11,7 @@ model selection across 9 algorithms including XGBoost, CatBoost, and Random Fore
 💼 I also bring 6+ years of professional experience in web development and analytics —  
 which means I understand how to build things that work in production, not just in notebooks.
 
-🌍 Based in **Lisbon, Portugal** | Right to work in Portugal ✅  
+🌍 Based in **Lisbon, Portugal**
 📫 **morshadtafe@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/morshadul/)
 
