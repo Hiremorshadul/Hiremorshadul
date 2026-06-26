@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Morshadul Alam
 
 🎓 MSc Data Science student at **Universidade NOVA de Lisboa** (graduating June 2026),  
-specialising in machine learning engineering, predictive modelling, and data pipelines.
+specialising in machine learning, predictive modelling, big data, data engineering, AI and LLMs.
 
 🔭 I build end-to-end ML projects — from raw data to deployed web applications.  
 My projects include a **live wildfire risk predictor** (Ridge Regression, deployed on Render)  
