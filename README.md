@@ -12,7 +12,6 @@ model selection across 9 algorithms including XGBoost, CatBoost, and Random Fore
 which means I understand how to build things that work in production, not just in notebooks.
 
 🌍 Based in **Lisbon, Portugal**
-📫 **morshadtafe@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/morshadul/)
 
 ---
@@ -22,8 +21,8 @@ which means I understand how to build things that work in production, not just i
 **Languages:** Python, SQL, JavaScript  
 **ML & Data:** Scikit-learn, TensorFlow, Keras, XGBoost, CatBoost, Pandas, NumPy, Matplotlib, MLflow  
 **Deployment:** Flask, FastAPI, Streamlit, Docker, GitHub Actions  
-**Cloud:** AWS (Elastic Beanstalk), Azure, Google Cloud  
-**Big Data:** Apache Spark, Kafka, Hadoop, Airflow  
+**Cloud:** AWS, Azure, Google Cloud  
+**Big Data:** Apache Spark, PySpark, Databricks, Kafka, Hadoop, Airflow  
 **Databases:** MySQL, MongoDB, Microsoft SQL Server  
 
 ---
